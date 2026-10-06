@@ -20,7 +20,7 @@ _Revisado: 2026-10-06_
 
 ## Dos formas de usarla
 
-1. **Ruta**: sigue el orden 1 → 6.
+1. **Ruta**: sigue el orden 1 → 7.
 2. **Referencia**: usa el buscador (atajo `Ctrl+F`) o salta al bloque que necesites.
 
 ## El recorrido
@@ -92,6 +92,10 @@ Las flechas sólidas indican qué conviene haber visto antes: Java en producció
 ### 6 · Herramientas
 
 - [Git y trabajo en equipo](/herramientas/git): modelo interno, merge y rebase, recuperación, flujos y hooks.
+
+### 7 · Autoevaluación
+
+- [Autoevaluación](/autoevaluacion): un quiz por bloque con preguntas de razonamiento y un [examen mixto](/autoevaluacion/examen-mixto) aleatorio.
 
 ## Cómo está construida cada página
 

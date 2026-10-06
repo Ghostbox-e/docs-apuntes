@@ -72,6 +72,21 @@ const sidebars: SidebarsConfig = {
       collapsed: true,
       items: ["herramientas/git"],
     },
+    {
+      type: "category",
+      label: "7 · Autoevaluación",
+      collapsed: true,
+      items: [
+        "autoevaluacion/index",
+        "autoevaluacion/linux",
+        "autoevaluacion/redes",
+        "autoevaluacion/bbdd",
+        "autoevaluacion/java",
+        "autoevaluacion/marcas",
+        "autoevaluacion/herramientas",
+        "autoevaluacion/examen-mixto",
+      ],
+    },
   ],
 };
 
