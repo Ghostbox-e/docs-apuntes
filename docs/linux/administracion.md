@@ -2,6 +2,7 @@
 title: Linux
 description: Procesos, systemd, permisos, almacenamiento, rendimiento, Bash, SSH y hardening — el Linux que se usa a diario en operación.
 sidebar_position: 1
+sidebar_label: Administración
 tags: [linux]
 ---
 
